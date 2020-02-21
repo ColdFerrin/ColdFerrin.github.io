@@ -1,18 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.ac63bf14.chunk.css",
-    "main.js": "/static/js/main.3edc71c3.chunk.js",
-    "main.js.map": "/static/js/main.3edc71c3.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.23be8477.js",
-    "runtime~main.js.map": "/static/js/runtime~main.23be8477.js.map",
-    "static/js/2.1ab9c93a.chunk.js": "/static/js/2.1ab9c93a.chunk.js",
-    "static/js/2.1ab9c93a.chunk.js.map": "/static/js/2.1ab9c93a.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.56b41a3b82c9232833445fb738c436da.js": "/precache-manifest.56b41a3b82c9232833445fb738c436da.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.ac63bf14.chunk.css.map": "/static/css/main.ac63bf14.chunk.css.map",
-    "static/media/github.svg": "/static/media/github.0d54cb5f.svg",
-    "static/media/linkedin.svg": "/static/media/linkedin.4a1b5d7e.svg",
-    "static/media/twitter.svg": "/static/media/twitter.c09bd7bb.svg"
-  }
+    "main.css": "/ColdFerrin/personal-repo/static/css/main.948e4321.chunk.css",
+    "main.js": "/ColdFerrin/personal-repo/static/js/main.ad6dde80.chunk.js",
+    "main.js.map": "/ColdFerrin/personal-repo/static/js/main.ad6dde80.chunk.js.map",
+    "runtime-main.js": "/ColdFerrin/personal-repo/static/js/runtime-main.51c7ebb2.js",
+    "runtime-main.js.map": "/ColdFerrin/personal-repo/static/js/runtime-main.51c7ebb2.js.map",
+    "static/js/2.ed1424b2.chunk.js": "/ColdFerrin/personal-repo/static/js/2.ed1424b2.chunk.js",
+    "static/js/2.ed1424b2.chunk.js.map": "/ColdFerrin/personal-repo/static/js/2.ed1424b2.chunk.js.map",
+    "index.html": "/ColdFerrin/personal-repo/index.html",
+    "precache-manifest.0ee3a056be4e52ea1eb4c0eb128ee116.js": "/ColdFerrin/personal-repo/precache-manifest.0ee3a056be4e52ea1eb4c0eb128ee116.js",
+    "service-worker.js": "/ColdFerrin/personal-repo/service-worker.js",
+    "static/css/main.948e4321.chunk.css.map": "/ColdFerrin/personal-repo/static/css/main.948e4321.chunk.css.map",
+    "static/js/2.ed1424b2.chunk.js.LICENSE": "/ColdFerrin/personal-repo/static/js/2.ed1424b2.chunk.js.LICENSE",
+    "static/media/github.svg": "/ColdFerrin/personal-repo/static/media/github.0d54cb5f.svg",
+    "static/media/linkedin.svg": "/ColdFerrin/personal-repo/static/media/linkedin.4a1b5d7e.svg",
+    "static/media/twitter.svg": "/ColdFerrin/personal-repo/static/media/twitter.c09bd7bb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51c7ebb2.js",
+    "static/js/2.ed1424b2.chunk.js",
+    "static/css/main.948e4321.chunk.css",
+    "static/js/main.ad6dde80.chunk.js"
+  ]
 }
