@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d5f779d2338cb99ff249a3506e0f641e",
+    "revision": "d7aebf44c796d8b95670d733f090f606",
     "url": "/index.html"
   },
   {
-    "revision": "802c85adf51383ca5811",
-    "url": "/static/css/main.e2ce169e.chunk.css"
+    "revision": "5bd985dd6435949dc7bc",
+    "url": "/static/css/main.f0e139d3.chunk.css"
   },
   {
-    "revision": "f6d3c238c3abc2cd4c9d",
-    "url": "/static/js/2.a61c4dba.chunk.js"
+    "revision": "7bd921b78ef5e1c9d473",
+    "url": "/static/js/2.d58ccbb5.chunk.js"
   },
   {
     "revision": "928d7b5eb39d16fe9a880722c974b51e",
-    "url": "/static/js/2.a61c4dba.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.d58ccbb5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "802c85adf51383ca5811",
-    "url": "/static/js/main.589f36c3.chunk.js"
+    "revision": "5bd985dd6435949dc7bc",
+    "url": "/static/js/main.eb201270.chunk.js"
   },
   {
     "revision": "93cba054f0f94a4ba97d",
     "url": "/static/js/runtime-main.bce13bc0.js"
+  },
+  {
+    "revision": "d127c556403bfdf0f806ebb7964c6e81",
+    "url": "/static/media/ferrinlogo.d127c556.svg"
   },
   {
     "revision": "0d54cb5f56264431732dd9c8994a29c1",
