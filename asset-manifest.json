@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.3413f385.chunk.css",
-    "main.js": "/static/js/main.daed27b4.chunk.js",
-    "main.js.map": "/static/js/main.daed27b4.chunk.js.map",
+    "main.css": "/static/css/main.23a614ca.chunk.css",
+    "main.js": "/static/js/main.1c2a58ce.chunk.js",
+    "main.js.map": "/static/js/main.1c2a58ce.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.17f3cc76.js",
     "runtime-main.js.map": "/static/js/runtime-main.17f3cc76.js.map",
     "static/js/2.a4863e4f.chunk.js": "/static/js/2.a4863e4f.chunk.js",
     "static/js/2.a4863e4f.chunk.js.map": "/static/js/2.a4863e4f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.986ab598b8cf69f3605acbbf8620a9a8.js": "/precache-manifest.986ab598b8cf69f3605acbbf8620a9a8.js",
+    "precache-manifest.7e79c7be105c5693ad2ab5156f6336e2.js": "/precache-manifest.7e79c7be105c5693ad2ab5156f6336e2.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.3413f385.chunk.css.map": "/static/css/main.3413f385.chunk.css.map",
+    "static/css/main.23a614ca.chunk.css.map": "/static/css/main.23a614ca.chunk.css.map",
     "static/js/2.a4863e4f.chunk.js.LICENSE.txt": "/static/js/2.a4863e4f.chunk.js.LICENSE.txt",
     "static/media/Ferrin.png": "/static/media/Ferrin.64faaf6b.png",
     "static/media/ferrinlogo.svg": "/static/media/ferrinlogo.d127c556.svg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.17f3cc76.js",
     "static/js/2.a4863e4f.chunk.js",
-    "static/css/main.3413f385.chunk.css",
-    "static/js/main.daed27b4.chunk.js"
+    "static/css/main.23a614ca.chunk.css",
+    "static/js/main.1c2a58ce.chunk.js"
   ]
 }
